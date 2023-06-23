@@ -1,1 +1,2 @@
 This project will be serve as a testament to my skills that i learned in The Odin Project: Foundation.
+In this project, I will be making a basic landing page from scratch (Not the scratch language, its a pain if it is so nope.) in html and css.
