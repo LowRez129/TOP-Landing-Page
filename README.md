@@ -1,0 +1,1 @@
+This project will be serve as a testament to my skills that i learned in The Odin Project: Foundation.
