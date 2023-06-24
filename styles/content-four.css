@@ -17,6 +17,16 @@
     padding: 0;
 }
 
+.container button {
+    margin-right: 50%;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    padding: 4px 32px;
+    text-align: center;
+}
+
 .font {
     font-size: larger; 
     font-weight: bolder;
