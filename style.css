@@ -39,23 +39,26 @@ body {
     align-items: center;
 }
 
-.content-one-left {
+.content-one .left {
     display: flex;
     flex-direction: column;
     padding: 16px;
     gap: 10px;
 }
 
-.content-one-left.big {
+.left .big {
     font-size: 30px;
     font-weight: bolder;
 }
 
-.content-one-left button {
-    flex: 0;
+.left button {
+    
 }
 
-
+.content-one img {
+    height: 100px;
+    width: 150px;
+}
 
 .bottom {
     background-color: aquamarine;
