@@ -1,0 +1,26 @@
+.content-two {
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+}
+
+.image-n-text {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.image-n-text img {
+    height: 50px;
+    width: 50px;
+    border: solid lightseagreen;
+}
+
+.image-n-text div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

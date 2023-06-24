@@ -1,0 +1,16 @@
+.content-three {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-three div {
+    background-color: blueviolet;
+    padding: 16px;
+    padding-bottom: 8px;
+}
+
+.content-three div div {
+    text-align: end;
+}
+
+
