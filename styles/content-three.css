@@ -1,11 +1,7 @@
 .content-three {
     display: flex;
     flex-direction: column;
-}
-
-.content-three div {
     background-color: blueviolet;
-    padding: 16px;
+    padding: 16px 100%;
 }
-
 

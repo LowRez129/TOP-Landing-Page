@@ -1,12 +1,18 @@
+.content-four {
+    padding: 16px;
+}
+
 .content-four .container {
     background-color: khaki;
     display: flex;
-}
-
-.container div {
+    align-items: center;
+    padding: 16px 400px;
+    gap: 16px;
     border: solid red;
 }
 
-.container button {
-    margin: 16px
+.font {
+    font-size: larger; 
+    font-weight: bolder;
+    color: white;
 }
