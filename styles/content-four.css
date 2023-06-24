@@ -1,0 +1,7 @@
+.content-four {
+    display: flex;
+}
+
+.content-four .container{
+    display: flex;
+}
