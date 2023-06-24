@@ -1,7 +1,12 @@
-.content-four {
+.content-four .container {
+    background-color: khaki;
     display: flex;
 }
 
-.content-four .container{
-    display: flex;
+.container div {
+    border: solid red;
+}
+
+.container button {
+    margin: 16px
 }
