@@ -1,5 +1,5 @@
 .content-four {
-    padding: 32px;
+    padding: 64px;
 }
 
 .content-four .container {
@@ -7,14 +7,12 @@
     border-radius: 16px;
     display: flex;
     align-items: center;
-    padding: 16px 300px;
-    gap: 16px;
+    padding: 32px 128px;
+    gap: 32px;
 }
 
-.container p, 
-.container button {
-    margin: 0;
-    padding: 0;
+.content-four .container p {
+    font-size: larger;
 }
 
 .container button {
