@@ -1,10 +1,6 @@
 .content-three {
-    display: flex;
-    flex-direction: column;
     background-color: blueviolet;
     font-size: x-large;
-    width: max-content;
-    height: 100%;
     padding: 16px;
 }
 
