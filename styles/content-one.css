@@ -1,9 +1,12 @@
 .content-one {
     background-color: aqua;
     display: flex;
-    gap: 16px;
     align-items: center;
+    justify-content: center;
+    gap: 16px;
     padding: 16px;
+    height: 100%;
+    width: 100%;
 }
 
 .content-one .left {
